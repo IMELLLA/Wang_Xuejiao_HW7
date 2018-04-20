@@ -1,0 +1,87 @@
+﻿@model Wang_Xuejiao_HW7.Models.AppUser
+
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Member</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Majors)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Majors)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OkToText)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OkToText)
+        </dd>
+
+    </dl>
+</div>
+
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Event Title
+        </th>
+        <th>
+            Event Date
+        </th>
+    </tr>
+    @foreach (var item in Model.Events)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.EventTitle)</td>
+            <td>@Html.DisplayFor(modelItem => item.EventDate)</td>
+        </tr>
+    }
+    
+
+    </table>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id}) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

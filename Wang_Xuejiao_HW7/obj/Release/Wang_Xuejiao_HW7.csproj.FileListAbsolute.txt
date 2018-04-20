@@ -1,0 +1,142 @@
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\ApplicationInsights.config
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Wang_Xuejiao_HW7.dll.config
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Wang_Xuejiao_HW7.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Wang_Xuejiao_HW7.pdb
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Antlr3.Runtime.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\EntityFramework.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\EntityFramework.SqlServer.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.Web.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Newtonsoft.Json.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Owin.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Helpers.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Mvc.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Optimization.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Razor.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.Razor.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\WebGrease.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\EntityFramework.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\EntityFramework.SqlServer.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Helpers.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Mvc.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Optimization.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Razor.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.Razor.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Antlr3.Runtime.pdb
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Newtonsoft.Json.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.Web.xml
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.csprojResolveAssemblyReference.cache
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.InitialSetup.resources
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.InitialSetup1.resources
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.second.resources
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.third.resources
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.third1.resources
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.third2.resources
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.fourth.resources
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.csproj.GenerateResource.Cache
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.csproj.CoreCompileInputs.cache
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.dll
+C:\Users\JiaoJiao\Desktop\MIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.pdb
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\ApplicationInsights.config
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Wang_Xuejiao_HW7.dll.config
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Wang_Xuejiao_HW7.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Wang_Xuejiao_HW7.pdb
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Antlr3.Runtime.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\EntityFramework.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\EntityFramework.SqlServer.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.Web.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Newtonsoft.Json.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Owin.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Helpers.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Mvc.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Optimization.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Razor.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.Razor.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\WebGrease.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\EntityFramework.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\EntityFramework.SqlServer.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Helpers.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Mvc.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Optimization.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.Razor.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\System.Web.WebPages.Razor.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Antlr3.Runtime.pdb
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Newtonsoft.Json.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\bin\Microsoft.AI.Web.xml
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.csprojResolveAssemblyReference.cache
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.InitialSetup.resources
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.InitialSetup1.resources
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.second.resources
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.third.resources
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.third1.resources
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.third2.resources
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.Migrations.fourth.resources
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.csproj.GenerateResource.Cache
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.csproj.CoreCompileInputs.cache
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.dll
+C:\Users\JiaoJiao\Desktop\Xuejiao Wang\17FallMIS333K\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\Wang_Xuejiao_HW7\obj\Release\Wang_Xuejiao_HW7.pdb
